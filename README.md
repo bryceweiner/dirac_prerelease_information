@@ -66,6 +66,8 @@ __Official Blake Ecosystem Merged Mining Pool__
  * FPGA Mining: Yes.
  * ASIC Mining : __*NO*__
 
+![Technically Superior] (https://pbs.twimg.com/media/Bn4z2w7CMAA_gUf.png "Technically Superior")
+
 __Official Dirac Exchange (Blake Ecosystem Present)__
 * [http://allcrypt.com](http://allcrypt.com)
 
