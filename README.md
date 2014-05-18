@@ -31,6 +31,9 @@ __*What is Dirac?*__
 ====================
 A Revolution In Cryptocurrency and Finance
 ---------------------------------------
+
+>"As Dirac was to Einstein, so now Dirac is to Bitcoin."
+
 Dirac is intented not simply as a currency, but as a stable financial instrument capable of carrying vast amounts of wealth in a safe, secure, and in a manner more economically efficient than Bitcoin.  Free-market managed economic stability is a concept introduced by NautilusCoin and then enhanced by Dirac.  Dirac will be traded in an exclusive currency pairing against NautilusCoin (NAUT market) on [AllCrypt](http://AllCrypt.com). Between 90 and 100 days after launch, the market will be gradually purchased at fair market value for 25,000NAUT over a period of 30 days, backing the currency network and fixing the price at that moment at roughly 0.07NAUT.
 
 Dirac has a specially modified codebase which allows for a process of currency cloning that is simpler than ever before. Thousands of clones can now be created and each blockchain comes pre-built with merged mining.
