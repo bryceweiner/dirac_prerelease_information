@@ -66,6 +66,10 @@ __Official Blake Ecosystem Merged Mining Pool__
  * FPGA Mining: Yes.
  * ASIC Mining : __*NO*__
 
+__Blake-256 optimization thread on CUDA__
+[http://www.cudaminers.net/forum/settings-benchmarks-for-blake-256-merged-mining-thread.html](http://www.cudaminers.net/forum/settings-benchmarks-for-blake-256-merged-mining-thread.html)
+started by @cuttlefish_btc 
+
 __Real world example of 280X Settings at 2.4Gh/s__
 
 ![Technically Superior] (https://pbs.twimg.com/media/Bn4z2w7CMAA_gUf.png "Technically Superior")
