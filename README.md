@@ -42,6 +42,7 @@ Dirac has a specially modified codebase which allows for a process of currency c
 * Monetary Symbol : Ð 
 * Target block time : 180 seconds 
 * Difficulty retarget : 2,016 blocks (roughly every 4 days) 
+* Maximum Coins: Ð2,272,800
 * Starting block reward : Ð8 
  * First reward reduction @ 43201 : Ð1.25 
  * Second reward reduction @ 744001 : Ð0.75 
